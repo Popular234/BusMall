@@ -1,0 +1,49 @@
+body{
+    background-color: indianred;
+}
+header{
+    border: solid black 3px;
+    margin: 2%;
+}
+h1{
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+    margin: 2%;
+    font-family: 'Castoro Titling', cursive;
+}
+h2{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    margin: 2%;
+    font-family: 'Castoro Titling', cursive;
+}
+h3{
+    text-align: center;
+    width: 50%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    margin: auto;
+    font-size: x-large;
+    color: brown;
+    font-family: 'Instrument Serif', serif;
+}
+div{
+    display: flex;
+    justify-content: center;
+    border: solid black 3px;
+    margin: 2%;
+}
+img{
+    width: 300px;
+    height: 300px;
+    padding: 7%;
+}
+footer{
+    border-top: dashed black 5px;
+    padding: 5%;
+    font-size: larger;
+    text-align: center;
+    text-decoration: underline;
+}

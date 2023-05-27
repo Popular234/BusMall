@@ -47,3 +47,20 @@ footer{
     text-align: center;
     text-decoration: underline;
 }
+table{
+    display: flex;
+    justify-content: center;
+    border: dashed black 2px;
+    width: 300px;
+}
+#div0{
+    border: 0px;
+}
+td{
+    border: solid black 2px;
+}
+#th{
+    font-weight: bolder;
+    font-size: larger;
+    border: 0px;
+}
